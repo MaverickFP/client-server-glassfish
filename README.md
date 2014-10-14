@@ -29,8 +29,8 @@ Avvio ed uso della macchina virtuale
 2. Clonare questo repository.
 3. Lanciare il comando ```vagrant up``` dal repository che avete clonato
 4. Dopo alcuni minuti la macchina virtuale verra' creata e avviata con Glassfish come servizio
-5. E' possibile accedere nella macchina virtuale del server mediante ul comando ```vagrant ssh server```
-6. E' possibile accedere nella macchina virtuale del client mediante ul comando ```vagrant ssh client```
+5. E' possibile accedere nella macchina virtuale del server mediante il comando ```vagrant ssh server```
+6. E' possibile accedere nella macchina virtuale del client mediante il comando ```vagrant ssh client```
 
 **Accesso al server:**
 
@@ -51,4 +51,3 @@ Avvio ed uso della macchina virtuale
  *Per raggiungerla, dopo aver lanciato il comando ```vagrant ssh``` bisogna digitare direttamente  ```cd /opt/glassfish4/bin```
  *Successivamente, per modificare la configurazione, usare  ```asadmin``` in questo modo ```./asadmin COMANDO```
  
- #http://twostepsaheadtoday.wordpress.com/2014/02/07/glassfish-4-admin-console-login-problem/
